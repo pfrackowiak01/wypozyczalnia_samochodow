@@ -1,4 +1,4 @@
-## Link do gotowego działającego projektu
+## Link do gotowego działającego projektu:
 https://foka.umg.edu.pl/~s47620/wypozyczalnia_samochodow/public/
 
 login: student

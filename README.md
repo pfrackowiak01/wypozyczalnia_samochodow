@@ -1,9 +1,9 @@
-## Link do gotowego działającego projektu:
+## Finished website
 #### ➤ [Website "Car Rental" (Wypożyczalnia Samochodów)](https://foka.umg.edu.pl/~s47620/wypozyczalnia_samochodow/public/)
 
 ---
 
-## Documentation
+### Documentation
 #### ➤ [Dokumentacja (PDF)](https://github.com/pfrackowiak01/Studies/blob/main/PSI%20-%20(5%20sem)/PSI_ZALICZENIE_PROJEKT/Projekt%20%2B%20Uwagi%20-%20PSI%20-%20Paweł%20Frąckowiak%20-%20Wypożyczalnia%20samochodów.pdf)
 
 ---
